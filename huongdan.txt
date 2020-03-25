@@ -1,0 +1,6 @@
+-- De kich thuoc console 12x16 de hien thi game tot nhat!
+-- Lam theo Huong dan:
+B1 : -Click chuot phai vao bieu tuong ben trai tren cung console.
+B2 : -Chon the Properties
+B3 : -Click vao tab [ font ]
+B4 : -Chon Raster font , sau do chon size 12x16 .nhan OK !!!
